@@ -1,0 +1,16 @@
+body{
+    background-color: cadetblue;
+}
+
+h2{
+    color: aliceblue;
+}
+
+button{
+    padding-top: 5px;
+    margin-top: 5px;
+    background-color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-display: 10px;
+}
+
